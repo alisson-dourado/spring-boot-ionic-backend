@@ -20,6 +20,7 @@ public class ProdutoService {
 
 	@Autowired
 	private ProdutoRepository repo;
+	
 	@Autowired
 	private CategoriaRepository categoriaRepository;
 
