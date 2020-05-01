@@ -30,6 +30,7 @@ public class ClienteService {
 
 	@Autowired
 	private ClienteRepository repo;
+	
 	@Autowired
 	private EnderecoRepository enderecoRepository;
 
